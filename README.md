@@ -1,8 +1,8 @@
 # xhareClient for macOS
 
-The xhare Client for macOS is based on the *Gyazo client* for the same platform, but it has been adapted for uploading screenshots to **xhare**'s servers.
+The **xhare Client** for macOS is based on the *Gyazo client* for the same platform, but it has been adapted for uploading screenshots to **xhare**'s servers.
 
-To obtain more information about xhare, visit [our website](https://xhare.it).
+To obtain more information about **xhare**, visit [our website](https://xhare.it).
 
 The following information belongs to the original software:
 
